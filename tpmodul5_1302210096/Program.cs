@@ -8,5 +8,8 @@ class Program
         HaloGeneric halo = new HaloGeneric();
         string namaPanggilan = "Arzaq";
         halo.SapaUser(namaPanggilan);
+
+        DataGeneric<string> data = new DataGeneric<string>("1302210096");
+        data.PrintData();
     }
 }

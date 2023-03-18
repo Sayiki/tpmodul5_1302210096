@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 C:\Users\arzaq\OneDrive\Documents\GUI\tpmodul5_1302210096\tpmodul5_1302210096\obj\Debug\net6.0\tpmodul5_1302210096.csproj.AssemblyReference.cache
 C:\Users\arzaq\OneDrive\Documents\GUI\tpmodul5_1302210096\tpmodul5_1302210096\obj\Debug\net6.0\tpmodul5_1302210096.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\arzaq\OneDrive\Documents\GUI\tpmodul5_1302210096\tpmodul5_1302210096\obj\Debug\net6.0\tpmodul5_1302210096.AssemblyInfoInputs.cache
 C:\Users\arzaq\OneDrive\Documents\GUI\tpmodul5_1302210096\tpmodul5_1302210096\obj\Debug\net6.0\tpmodul5_1302210096.AssemblyInfo.cs
 C:\Users\arzaq\OneDrive\Documents\GUI\tpmodul5_1302210096\tpmodul5_1302210096\obj\Debug\net6.0\tpmodul5_1302210096.csproj.CoreCompileInputs.cache
+=======
+>>>>>>> generic-class
 C:\Users\arzaq\OneDrive\Documents\GUI\tpmodul5_1302210096\tpmodul5_1302210096\bin\Debug\net6.0\tpmodul5_1302210096.exe
 C:\Users\arzaq\OneDrive\Documents\GUI\tpmodul5_1302210096\tpmodul5_1302210096\bin\Debug\net6.0\tpmodul5_1302210096.deps.json
 C:\Users\arzaq\OneDrive\Documents\GUI\tpmodul5_1302210096\tpmodul5_1302210096\bin\Debug\net6.0\tpmodul5_1302210096.runtimeconfig.json
